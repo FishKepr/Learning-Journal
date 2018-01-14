@@ -4,7 +4,7 @@
 <li>The creative side of the program may be far more difficult than the technical content.</li>
 <li>Helping other students is very rewarding.</li>
 <li>Create branches using the client terminal, NOT using GITHUB.</li>
-<li>Slow is smooth.  Smooth is fast.  Fast mistakes takes longer than slow correct steps.</li>
+<li>Guest speaker currently in MS LEAP program.  Very Encouraging</li>
 </ul>
 
 <p>Git Branch steps:<p>
