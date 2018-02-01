@@ -5,4 +5,5 @@
 <li>First draft of LinkedIn profile completed too.  It was late but won't be penalized at such</li>
 <li>Got a perfect score on Quiz 3 on the first try. "Yay." NOTE:  It helps to check answers even when you think you know them.</li>
 <li>Need to find a second accountability partner.  Someone asked me but I need to confirm.</li>
+<li>Still concerned about learning asthetics.  Need to convince myself that I can do it.</li>
 </ul>
